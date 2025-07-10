@@ -40,6 +40,6 @@ this repo may contain:
 
 - - -
 
-✨proceed with curiousity ✨
+✨proceed with curiousity✨
 
   
