@@ -25,7 +25,7 @@ my safe little corner of the internet where i:
 - - - 
 
 ## current goals: 
-- [] finish *automate the boring stuffs*
+- [] finish / *automate the boring stuffs*
 - [] build a small script i actually use
 - [] understand classes without wanting to rip my hair out 
 - [] leave atleast (1) helpful comment in every file 
