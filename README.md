@@ -14,7 +14,7 @@ my safe little corner of the internet where i:
   - automate the boring stuff 🥱
   - become a data wizard 🪄
 
-  ---
+  - - -
 
 ## 👀 what you'll find here: 
 - practice scripts (`.py‘ files)
@@ -22,7 +22,7 @@ my safe little corner of the internet where i:
 - jupyter notebooks, full of my insatiable curioisty 
 - weird code that probably shouldn't work (but somehow does 😅)
 
----
+- - - 
 
 ## current goals: 
 - [] finish *automate the boring stuffs*
@@ -30,7 +30,7 @@ my safe little corner of the internet where i:
 - [] understand classes without wanting to rip my hair out 
 - [] leave atleast (1) helpful comment in every file 
 
----
+- - -
 
 ## disclaimer: 
 this repo may contain: 
@@ -38,6 +38,7 @@ this repo may contain:
 - chaos
 - accidental brilliance
 
+- - -
 
 ✨proceed with curiousity ✨
 
